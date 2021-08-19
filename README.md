@@ -1,4 +1,4 @@
-# FinTech-Domain-Part-1
+# FinTech Domain Part 1 Activity
 ## Payments & Remittances 
 
 ### What does this particular FinTech do? Purpose?
