@@ -7,7 +7,11 @@
 
 ### What is the competitive landscape?
 
-*Paypal, Moneygram, Square, Cash app, Venmo, Coinbase, Stripe, Zelle*
+*Visa, Mastercard, Amex, Paypal, Moneygram, Square, Cash app, Venmo, Coinbase, Stripe, Zelle*
 
 ### What are the main factors for change? How is the domain being disrupted?
+
+*Speed, security, privacy, transaction cost, cross asset, cross currency have all been challenges and barriers to entry in the space. Traditional credit card processing has only recently moved from dial up transaction processing to broadband. FinTech innovations, such has reliance on blockchain technology, have touched all these factors. Speed and cost being the most vulnerable to disruption.*
+
+### What are the technologies used?
 
