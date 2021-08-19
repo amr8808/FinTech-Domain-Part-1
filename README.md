@@ -14,7 +14,7 @@
 *Speed, security, privacy, transaction cost, cross asset, cross currency have all been challenges and barriers to entry in the space. Traditional credit card processing has only recently moved from dial up transaction processing to broadband. FinTech innovations, such has reliance on blockchain technology, have touched all these factors. Speed and cost being the most vulnerable to disruption.*
 
 ### What are the technologies used?
-
+*Current technologies include: ACH, Wire Transfer, Bank to Bank, Peer to Peer
 
 
 ### What is its past, present, and future growth?
